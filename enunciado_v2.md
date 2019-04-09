@@ -35,9 +35,9 @@ Não é uma questão de ROS. Trabalhe na pasta `p1_webcam`
 |Resultado| Conceito| 
 |---|---|
 | Não executa | 0 |
-| Dá falso positivo para outros círculos ou outras cores  ou não apresenta contornos | 1.25 |
-| Apresenta o contorno que praticamente cobre os círculos verde | 2.5 |
-| Apresenta um contorno desenhado sobre os círculos verdes da folha | 4.0 | 
+| Dá falso positivo para outros círculos ou outras cores  ou não apresenta contornos | 1.5 |
+| Apresenta o contorno que praticamente cobre os círculos verde | 2.75 |
+| Apresenta um contorno desenhado sobre os círculos verdes da folha | 4.5 | 
 
 Casos intermediários ou omissos da rubrica serão decididos pelo professor.
 
@@ -65,9 +65,9 @@ A centralização não precisa ser perfeita, adote uma margem de tolerância
 |Resultado| Conceito| 
 |---|---|
 | Não executa | 0 |
-| Consegue calcular o centro do gato e o centro da imagem | 1.25 |
-| Realiza ações no sentido de centralizar, mas não converge ou a rotação não é no sentido ótimo | 2.5 |
-| Gira até convergir para o gato | 4.0 | 
+| Consegue calcular o centro do gato e o centro da imagem | 1.5 |
+| Realiza ações no sentido de centralizar, mas não converge ou a rotação não é no sentido ótimo | 2.75 |
+| Gira até convergir para o gato | 4.5 | 
 
 Casos intermediários ou omissos da rubrica serão decididos pelo professor.
 
